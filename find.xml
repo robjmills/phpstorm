@@ -17,8 +17,8 @@
       <mask>*ctp</mask>
       <mask>*php</mask>
       <mask>*.ctp</mask>
-      <mask>*.twig</mask>
       <mask>*Form.php</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
