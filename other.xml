@@ -15,6 +15,11 @@
       </profile-state>
     </entry>
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="5.9.0" last-modified="1458159257000" />
+    </local-interpreter>
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
   </component>
