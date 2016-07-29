@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*Form.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,9 +18,9 @@
       <mask>*ctp</mask>
       <mask>*php</mask>
       <mask>*.ctp</mask>
-      <mask>*Form.php</mask>
-      <mask>*.twig</mask>
       <mask>*.less</mask>
+      <mask>*.twig</mask>
+      <mask>*Form.php</mask>
     </recentFileMasks>
   </component>
 </application>
