@@ -1,9 +1,14 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
   <action id="ParameterInfo" />
+  <action id="Resume" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
