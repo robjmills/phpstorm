@@ -1,9 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Log/Log.php" type="PLAIN_TEXT" />
-      <mapping ext="p12" type="PLAIN_TEXT" />
+      <mapping ext="s" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
