@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="Log/Log.php" type="PLAIN_TEXT" />
+      <mapping pattern="NotOnlyLongTermFostering.php" type="PLAIN_TEXT" />
       <mapping ext="s" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
