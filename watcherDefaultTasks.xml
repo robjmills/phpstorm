@@ -3,7 +3,7 @@
     <TaskOptions isEnabled="true">
       <option name="arguments" value="--no-color $FileName$" />
       <option name="checkSyntaxErrors" value="true" />
-      <option name="description" value="Compiles .less files into .css files" />
+      <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
@@ -19,13 +19,11 @@
         </array>
       </option>
       <option name="outputFromStdout" value="true" />
-      <option name="program" value="/usr/local/bin/lessc" />
+      <option name="program" value="/usr/local/bin/less" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$USER_HOME$/code/adoptionlink/cake2/app/webroot/bootstrap/less" />
-      <envs>
-        <env name="PATH" value="/usr/local/sbin:/Users/robmills/bin:/usr/local/bin:/usr/local/sbin:/usr/local/opt/mysql/bin:/usr/local/share/npm/bin:~/.composer/vendor/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin:/Users/robmills/.composer/vendor/bin" />
-      </envs>
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
     </TaskOptions>
   </component>
 </application>
