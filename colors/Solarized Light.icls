@@ -1,7 +1,8 @@
 <scheme name="Solarized Light" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baeeba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
