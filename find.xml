@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -17,11 +15,13 @@
       <mask>*.js</mask>
       <mask>*ctp</mask>
       <mask>*php</mask>
-      <mask>*.less</mask>
       <mask>*.ctp</mask>
       <mask>*Form.php</mask>
       <mask>*.php</mask>
       <mask>*.twig</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
