@@ -1,16 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.js</mask>
       <mask>*ctp</mask>
@@ -25,7 +20,6 @@
       <mask>*.ctptwi</mask>
       <mask>*.ctptw</mask>
       <mask>*.ctpt</mask>
-      <mask>*.ctp</mask>
       <mask>*.c</mask>
       <mask>*.cte</mask>
       <mask>*.ct</mask>
@@ -34,6 +28,14 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.twig,&amp;</mask>
+      <mask>*.twig,</mask>
+      <mask>*.twig,*</mask>
+      <mask>*.twig,*.</mask>
+      <mask>*.twig,*.c</mask>
+      <mask>*.twig,*.ct</mask>
+      <mask>*.twig,*.ctp</mask>
+      <mask>*.ctp</mask>
     </recentFileMasks>
   </component>
 </application>
