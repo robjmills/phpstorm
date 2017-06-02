@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>*.ctptw</mask>
       <mask>*.ctpt</mask>
@@ -29,14 +29,14 @@
       <mask>.tw</mask>
       <mask>.twi</mask>
       <mask>.twig</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.tw</mask>
+      <mask>*.twi</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
