@@ -3,10 +3,8 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*Form.php" />
     <recentFileMasks>
-      <mask>*.ctptw</mask>
-      <mask>*.ctpt</mask>
-      <mask>*.c</mask>
       <mask>*.cte</mask>
       <mask>*.ct</mask>
       <mask>*.twig,&amp;</mask>
@@ -21,19 +19,22 @@
       <mask>for</mask>
       <mask>f</mask>
       <mask>fo</mask>
-      <mask>*Form.php</mask>
       <mask>.t</mask>
       <mask>.tw</mask>
       <mask>.twi</mask>
       <mask>.twig</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>F</mask>
+      <mask>Fo</mask>
+      <mask>*Form.php</mask>
     </recentFileMasks>
   </component>
 </application>
