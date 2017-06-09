@@ -3,10 +3,8 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.twig,</mask>
-      <mask>*.twig,*</mask>
-      <mask>*.twig,*.</mask>
       <mask>*.twig,*.c</mask>
       <mask>*.twig,*.ct</mask>
       <mask>*.twig,*.ctp</mask>
@@ -23,17 +21,20 @@
       <mask>F</mask>
       <mask>Fo</mask>
       <mask>*Fortm.php</mask>
-      <mask>t</mask>
       <mask>w</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
       <mask>f</mask>
       <mask>fo</mask>
       <mask>form</mask>
       <mask>*Form.php</mask>
+      <mask>t</mask>
+      <mask>tw</mask>
+      <mask>twi</mask>
+      <mask>twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
