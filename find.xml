@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>.t</mask>
       <mask>.tw</mask>
@@ -29,11 +30,11 @@
       <mask>*.twu</mask>
       <mask>*.twog</mask>
       <mask>*.two</mask>
-      <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
