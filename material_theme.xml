@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="isMaterialDesign" value="false" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
+    <option name="defaultBackground" value="" />
+  </component>
+</application>
