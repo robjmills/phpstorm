@@ -3,18 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*form.php" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.</mask>
-      <mask>f</mask>
-      <mask>fo</mask>
-      <mask>form</mask>
-      <mask>t</mask>
-      <mask>tw</mask>
-      <mask>twi</mask>
-      <mask>*.p*.phphp</mask>
-      <mask>*.t</mask>
-      <mask>*.twug</mask>
       <mask>*.twu</mask>
       <mask>*.twog</mask>
       <mask>*.two</mask>
@@ -31,10 +21,20 @@
       <mask>*Form.php</mask>
       <mask>.les</mask>
       <mask>.less</mask>
+      <mask>*form.php</mask>
+      <mask>*form.ph</mask>
+      <mask>*form.p</mask>
+      <mask>*form.</mask>
+      <mask>*form</mask>
+      <mask>*for</mask>
+      <mask>*fo</mask>
+      <mask>*f</mask>
+      <mask>*</mask>
+      <mask>t</mask>
+      <mask>twi</mask>
       <mask>twig</mask>
       <mask>.twig</mask>
       <mask>*.twig</mask>
-      <mask>*form.php</mask>
     </recentFileMasks>
   </component>
 </application>
