@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*form.php" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>f</mask>
       <mask>fo</mask>
@@ -34,6 +34,7 @@
       <mask>twig</mask>
       <mask>.twig</mask>
       <mask>*.twig</mask>
+      <mask>*form.php</mask>
     </recentFileMasks>
   </component>
 </application>
