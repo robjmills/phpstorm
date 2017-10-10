@@ -30,10 +30,10 @@
       <mask>twi</mask>
       <mask>twig</mask>
       <mask>.twig</mask>
-      <mask>*.twig</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
