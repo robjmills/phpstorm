@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>F</mask>
       <mask>Fo</mask>
       <mask>Form</mask>
       <mask>Form.</mask>
@@ -30,10 +27,13 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
-      <mask>*.twig</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
+      <mask>*.t</mask>
+      <mask>*.tw\</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
