@@ -4,16 +4,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Form.php</mask>
       <mask>.les</mask>
       <mask>.less</mask>
       <mask>*form.ph</mask>
       <mask>*form.p</mask>
       <mask>*fo</mask>
-      <mask>t</mask>
-      <mask>twi</mask>
-      <mask>twig</mask>
-      <mask>.twig</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.le</mask>
@@ -22,7 +17,6 @@
       <mask>*.t</mask>
       <mask>*.tw\</mask>
       <mask>*.tw</mask>
-      <mask>*.twig</mask>
       <mask>*</mask>
       <mask>*from</mask>
       <mask>*fro</mask>
@@ -34,6 +28,12 @@
       <mask>*form.</mask>
       <mask>*form.php</mask>
       <mask>*.php</mask>
+      <mask>t</mask>
+      <mask>tw</mask>
+      <mask>twi</mask>
+      <mask>twig</mask>
+      <mask>.twig</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
