@@ -6,19 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.les</mask>
-      <mask>*.tw\</mask>
-      <mask>*</mask>
-      <mask>*from</mask>
-      <mask>*fro</mask>
-      <mask>*fr</mask>
-      <mask>*f</mask>
-      <mask>*fom</mask>
-      <mask>*for</mask>
-      <mask>*form</mask>
-      <mask>*form.</mask>
-      <mask>*form.php</mask>
-      <mask>t</mask>
       <mask>tw</mask>
       <mask>twi</mask>
       <mask>twig</mask>
@@ -36,6 +23,19 @@
       <mask>*.twif</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*</mask>
+      <mask>*F</mask>
+      <mask>*Fo</mask>
+      <mask>*For</mask>
+      <mask>*Form/</mask>
+      <mask>*Form</mask>
+      <mask>*Form.</mask>
+      <mask>*Form.pjp</mask>
+      <mask>*Form.pj</mask>
+      <mask>*Form.p</mask>
+      <mask>*Form.pg</mask>
+      <mask>*Form.ph</mask>
+      <mask>*Form.php</mask>
     </recentFileMasks>
   </component>
 </application>
