@@ -5,16 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Search.php" />
     <recentFileMasks>
-      <mask>tw</mask>
-      <mask>twi</mask>
-      <mask>twig</mask>
-      <mask>.twig</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>le</mask>
-      <mask>les</mask>
-      <mask>&amp;less</mask>
       <mask>less</mask>
       <mask>*less</mask>
       <mask>*.less</mask>
@@ -36,6 +28,15 @@
       <mask>*Form.pg</mask>
       <mask>*Form.ph</mask>
       <mask>*Form.php</mask>
+      <mask>*\\.php</mask>
+      <mask>*\.php</mask>
+      <mask>*.php</mask>
+      <mask>*S.php</mask>
+      <mask>*Se.php</mask>
+      <mask>*Sea.php</mask>
+      <mask>*Sear.php</mask>
+      <mask>*Searc.php</mask>
+      <mask>*Search.php</mask>
     </recentFileMasks>
   </component>
 </application>
