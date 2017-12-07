@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
       <mask>less</mask>
       <mask>*less</mask>
@@ -13,7 +14,6 @@
       <mask>*.tw</mask>
       <mask>*.twif</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*</mask>
       <mask>*F</mask>
       <mask>*Fo</mask>
@@ -36,6 +36,7 @@
       <mask>*Sear.php</mask>
       <mask>*Searc.php</mask>
       <mask>*Search.php</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
