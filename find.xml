@@ -6,10 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.less</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twif</mask>
       <mask>*.twi</mask>
       <mask>*</mask>
       <mask>*F</mask>
@@ -23,7 +19,6 @@
       <mask>*Form.p</mask>
       <mask>*Form.pg</mask>
       <mask>*Form.ph</mask>
-      <mask>*Form.php</mask>
       <mask>*\\.php</mask>
       <mask>*\.php</mask>
       <mask>*S.php</mask>
@@ -36,6 +31,11 @@
       <mask>*.p</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>f</mask>
+      <mask>fo</mask>
+      <mask>for</mask>
+      <mask>form</mask>
+      <mask>*Form.php</mask>
     </recentFileMasks>
   </component>
 </application>
