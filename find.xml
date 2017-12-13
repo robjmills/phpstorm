@@ -6,8 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*For</mask>
-      <mask>*Form/</mask>
       <mask>*Form</mask>
       <mask>*Form.</mask>
       <mask>*Form.pjp</mask>
@@ -23,19 +21,21 @@
       <mask>*Sear.php</mask>
       <mask>*Searc.php</mask>
       <mask>*Search.php</mask>
-      <mask>*.twig</mask>
       <mask>*.ph</mask>
       <mask>f</mask>
       <mask>fo</mask>
       <mask>for</mask>
       <mask>form</mask>
       <mask>*Form.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>Repository.php</mask>
       <mask>*Repository.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.tw</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
