@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
+    <option name="customScope" value="File '.../src/LinkMaker/Entity/FamilyCommissioningProfile.php [adoptionlink]'" />
+    <option name="defaultScopeName" value="File '.../src/LinkMaker/Entity/FamilyCommissioningProfile.php [adoptionlink]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="SEARCH_SCOPE" value="File '.../src/LinkMaker/Entity/FamilyCommissioningProfile.php [adoptionlink]'" />
     <recentFileMasks>
       <mask>*Form</mask>
       <mask>*Form.</mask>
