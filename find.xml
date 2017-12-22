@@ -21,14 +21,11 @@
       <mask>*Sear.php</mask>
       <mask>*Searc.php</mask>
       <mask>*Search.php</mask>
-      <mask>*.ph</mask>
       <mask>f</mask>
       <mask>fo</mask>
       <mask>for</mask>
       <mask>form</mask>
       <mask>*Form.php</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>Repository.php</mask>
       <mask>*Repository.php</mask>
       <mask>*</mask>
@@ -36,6 +33,9 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
