@@ -1,0 +1,7 @@
+<application>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration standards="MySource;PEAR;PHPCompatibility;PSR1;PSR2;Squiz;Zend;codeception" tool_path="$USER_HOME$/code/adoptionlink/Vendor/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+</application>
