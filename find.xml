@@ -4,29 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Form.pj</mask>
-      <mask>*Form.p</mask>
-      <mask>*Form.pg</mask>
-      <mask>*Form.ph</mask>
-      <mask>*\\.php</mask>
-      <mask>*\.php</mask>
-      <mask>*S.php</mask>
-      <mask>*Se.php</mask>
-      <mask>*Sea.php</mask>
-      <mask>*Sear.php</mask>
-      <mask>*Searc.php</mask>
-      <mask>*Search.php</mask>
-      <mask>f</mask>
-      <mask>fo</mask>
-      <mask>for</mask>
-      <mask>form</mask>
-      <mask>*Form.php</mask>
-      <mask>Repository.php</mask>
-      <mask>*Repository.php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -34,6 +11,29 @@
       <mask>*.tw</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
+      <mask>*.for</mask>
+      <mask>*.form</mask>
+      <mask>*.fo</mask>
+      <mask>*.f</mask>
+      <mask>*.</mask>
+      <mask>f</mask>
+      <mask>(</mask>
+      <mask>*</mask>
+      <mask>*from.p</mask>
+      <mask>*from.</mask>
+      <mask>*from</mask>
+      <mask>*fro</mask>
+      <mask>*fr</mask>
+      <mask>*f</mask>
+      <mask>*fo</mask>
+      <mask>*for</mask>
+      <mask>*form/p</mask>
+      <mask>*form/</mask>
+      <mask>*form</mask>
+      <mask>*form.</mask>
+      <mask>*form.p</mask>
+      <mask>*form.ph</mask>
+      <mask>*form.php</mask>
     </recentFileMasks>
   </component>
 </application>
