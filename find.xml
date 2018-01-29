@@ -10,7 +10,6 @@
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twi</mask>
-      <mask>*.twig</mask>
       <mask>*.for</mask>
       <mask>*.form</mask>
       <mask>*.fo</mask>
@@ -34,6 +33,7 @@
       <mask>*form.p</mask>
       <mask>*form.ph</mask>
       <mask>*form.php</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
