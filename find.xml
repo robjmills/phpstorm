@@ -3,37 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twi</mask>
-      <mask>*.for</mask>
-      <mask>*.form</mask>
-      <mask>*.fo</mask>
-      <mask>*.f</mask>
-      <mask>*.</mask>
-      <mask>f</mask>
-      <mask>(</mask>
-      <mask>*</mask>
-      <mask>*from.p</mask>
-      <mask>*from.</mask>
-      <mask>*from</mask>
-      <mask>*fro</mask>
-      <mask>*fr</mask>
-      <mask>*f</mask>
-      <mask>*fo</mask>
-      <mask>*for</mask>
-      <mask>*form/p</mask>
-      <mask>*form/</mask>
-      <mask>*form</mask>
-      <mask>*form.</mask>
-      <mask>*form.p</mask>
-      <mask>*form.ph</mask>
-      <mask>*form.php</mask>
-      <mask>*Form.php</mask>
-      <mask>*Repository.php</mask>
-      <mask>*.twig</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*SearchForm.php</mask>
+    <mask>*.less</mask>
+    <mask>*.twig</mask>
+    <mask>*.php</mask>
   </component>
 </application>
