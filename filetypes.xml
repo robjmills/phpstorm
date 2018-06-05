@@ -1,11 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Makefile" type="Bash" />
       <mapping pattern="Makefile2" type="Bash" />
+      <mapping pattern="Makefile" type="Bash" />
       <mapping ext="ctp" type="PHP" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

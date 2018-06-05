@@ -3,6 +3,7 @@
     <option name="bundles">
       <list>
         <BundleConfigBean>
+          <option name="enabled" value="false" />
           <option name="name" value="Ruby" />
           <option name="path" value="$USER_HOME$/.idea/ruby.tmbundle" />
         </BundleConfigBean>
