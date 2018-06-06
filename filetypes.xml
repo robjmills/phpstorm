@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Makefile2" type="Bash" />
       <mapping pattern="Makefile" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping ext="ctp" type="PHP" />
     </extensionMap>
   </component>
