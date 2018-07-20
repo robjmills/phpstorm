@@ -3,6 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*Factory.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +19,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*Factory.php</mask>
   </component>
 </application>
