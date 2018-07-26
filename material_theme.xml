@@ -7,6 +7,8 @@
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="50" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="userId" value="4a83df2c:163ef26bd8c:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
