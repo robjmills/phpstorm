@@ -21,7 +21,7 @@
     <mask>*Test.php</mask>
     <mask>*Factory.php</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
