@@ -1,15 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="highlightThickness" value="4" />
     <option name="isContrastMode" value="true" />
     <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="80cbc4" />
     <option name="compactSidebar" value="true" />
-    <option name="tabsHeight" value="50" />
+    <option name="tabsHeight" value="40" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="userId" value="4a83df2c:163ef26bd8c:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
