@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,10 +19,10 @@
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
     <mask>*.twig</mask>
-    <mask>*Test.php</mask>
     <mask>*Factory.php</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
