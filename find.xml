@@ -15,11 +15,11 @@
     <mask>*.mxml</mask>
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
-    <mask>*.twig</mask>
     <mask>*Test.php</mask>
     <mask>*Factory.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
