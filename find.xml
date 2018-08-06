@@ -17,9 +17,9 @@
     <mask>*.less</mask>
     <mask>*Test.php</mask>
     <mask>*Factory.php</mask>
-    <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.yml</mask>
   </component>
 </application>
