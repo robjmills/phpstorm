@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default" />
-    <option name="defaultScopeName" value="Default" />
-    <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="customScope" value="Functional Tests" />
+    <option name="defaultScopeName" value="Functional Tests" />
+    <option name="SEARCH_SCOPE" value="Functional Tests" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,7 +17,7 @@
     <mask>*Test.php</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
