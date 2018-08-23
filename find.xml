@@ -15,10 +15,10 @@
     <mask>*.less</mask>
     <mask>*Factory.php</mask>
     <mask>*Test.php</mask>
-    <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
