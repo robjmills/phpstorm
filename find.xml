@@ -16,11 +16,11 @@
     <mask>*.less</mask>
     <mask>*Factory.php</mask>
     <mask>*Test.php</mask>
-    <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.json</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
   </component>
 </application>
