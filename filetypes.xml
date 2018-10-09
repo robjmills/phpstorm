@@ -6,6 +6,7 @@
       <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="queue-daemon" type="PHP" />
       <mapping ext="ctp" type="PHP" />
+      <mapping ext="view" type="PHP" />
     </extensionMap>
   </component>
 </application>
