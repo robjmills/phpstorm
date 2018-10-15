@@ -3,6 +3,8 @@
     <option name="customScope" value="YML routes/services" />
     <option name="defaultScopeName" value="YML routes/services" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="YML routes/services" />
     <mask>*.properties</mask>
