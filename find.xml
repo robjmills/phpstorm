@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -23,8 +21,8 @@
     <mask>*.yml</mask>
     <mask>§</mask>
     <mask>*test.php</mask>
-    <mask>*.php</mask>
     <mask>*provider.js</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
