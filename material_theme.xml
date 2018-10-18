@@ -3,11 +3,11 @@
     <option name="version" value="2.9.4.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightThickness" value="4" />
-    <option name="isMaterialDesign" value="false" />
     <option name="accentColor" value="009688" />
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="40" />
     <option name="darkTitleBar" value="true" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="userId" value="4a83df2c:163ef26bd8c:-7fff" />
     <option name="allowDataCollection" value="true" />
     <option name="overrideAccentColor" value="true" />
