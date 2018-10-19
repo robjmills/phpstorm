@@ -4,13 +4,14 @@
     <property name="created">2018-07-17T10:37:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2018-10-18T14:57:25</property>
+    <property name="modified">2018-10-19T13:56:49</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Fira Code" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="Inconsolata" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
+  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
