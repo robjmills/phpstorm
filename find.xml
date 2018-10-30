@@ -22,7 +22,7 @@
     <mask>§</mask>
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
