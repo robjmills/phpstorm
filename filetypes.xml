@@ -1,8 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Makefile" type="Bash" />
       <mapping pattern="Makefile2" type="Bash" />
+      <mapping pattern="Makefile" type="Bash" />
       <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="queue-daemon" type="PHP" />
       <mapping ext="ctp" type="PHP" />
