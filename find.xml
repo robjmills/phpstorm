@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
-    <option name="SEARCH_SCOPE" value="global" />
+    <option name="customScope" value="YML routes/services" />
+    <option name="defaultScopeName" value="YML routes/services" />
+    <option name="SEARCH_SCOPE" value="YML routes/services" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
