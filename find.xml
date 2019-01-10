@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,9 +22,9 @@
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
     <mask>*.yml</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*e.php</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
