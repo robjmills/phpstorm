@@ -21,9 +21,9 @@
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
     <mask>*.yml</mask>
-    <mask>*.twig</mask>
     <mask>*e.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
