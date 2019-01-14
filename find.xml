@@ -3,6 +3,7 @@
     <option name="customScope" value="YML routes/services" />
     <option name="defaultScopeName" value="YML routes/services" />
     <option name="SEARCH_SCOPE" value="YML routes/services" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,10 +21,10 @@
     <mask>§</mask>
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
-    <mask>*.yml</mask>
     <mask>*e.php</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
