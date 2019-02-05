@@ -5,6 +5,7 @@
       <mapping pattern="Makefile" type="Bash" />
       <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="queue-daemon" type="PHP" />
+      <mapping pattern="console" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping ext="view" type="PHP" />
     </extensionMap>
