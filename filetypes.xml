@@ -4,14 +4,15 @@
       <mapping pattern="Makefile2" type="Bash" />
       <mapping pattern="Makefile" type="Bash" />
       <mapping ext="local" type="Bash" />
-      <mapping ext="3" type="Dockerfile" />
       <mapping ext="1" type="Dockerfile" />
+      <mapping ext="3" type="Dockerfile" />
       <mapping ext="0" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping ext="view" type="PHP" />
+      <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Native" />
     </extensionMap>
   </component>
