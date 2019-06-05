@@ -26,7 +26,7 @@
     <mask>§</mask>
     <mask>*.js</mask>
     <mask>*Test.php</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
