@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Open Files" />
-    <option name="defaultScopeName" value="Open Files" />
-    <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,8 +26,8 @@
     <mask>§</mask>
     <mask>*.js</mask>
     <mask>*Test.php</mask>
-    <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
