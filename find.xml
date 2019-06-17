@@ -23,10 +23,10 @@
     <mask>*HandlerTest.php</mask>
     <mask>*.scss</mask>
     <mask>§</mask>
-    <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
