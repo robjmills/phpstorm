@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,11 +24,11 @@
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
     <mask>*Test.php</mask>
-    <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*Controller.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
