@@ -1,19 +1,29 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Makefile2" type="Bash" />
-      <mapping pattern="Makefile" type="Bash" />
-      <mapping ext="local" type="Bash" />
-      <mapping ext="1" type="Dockerfile" />
       <mapping ext="3" type="Dockerfile" />
+      <mapping ext="1" type="Dockerfile" />
       <mapping ext="0" type="Dockerfile" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="JSP" />
-      <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="console" type="PHP" />
-      <mapping ext="ctp" type="PHP" />
+      <mapping pattern="queue-daemon" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Native" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <mapping ext="local" type="Bash" />
+      <mapping pattern="Makefile" type="Bash" />
+      <mapping pattern="Makefile2" type="Bash" />
     </extensionMap>
   </component>
 </application>
