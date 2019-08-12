@@ -26,8 +26,8 @@
     <mask>*.twig</mask>
     <mask>*.scss</mask>
     <mask>*Controller.php</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
