@@ -27,7 +27,7 @@
     <mask>*Factory.php</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
