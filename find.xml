@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Open Files" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,10 +28,10 @@
     <mask>*.sql</mask>
     <mask>*Test.php</mask>
     <mask>*.yml</mask>
-    <mask>*.twig</mask>
     <mask>*Factory.php</mask>
     <mask>*Interface.php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
