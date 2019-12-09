@@ -32,8 +32,8 @@
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*Test.php</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
