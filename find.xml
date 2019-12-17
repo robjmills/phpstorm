@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Dashboard (not node)" />
     <option name="defaultScopeName" value="Dashboard (not node)" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Dashboard (not node)" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -30,7 +33,7 @@
     <mask>*.js</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*Test.php</mask>
-    <mask>*.php</mask>
     <mask>*.ts</mask>
+    <mask>*.php</mask>
   </component>
 </application>
