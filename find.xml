@@ -33,7 +33,7 @@
     <mask>*FactoryTest.php</mask>
     <mask>*Test.php</mask>
     <mask>*.ts</mask>
-    <mask>*.php</mask>
     <mask>*.py</mask>
+    <mask>*.php</mask>
   </component>
 </application>
