@@ -30,8 +30,8 @@
     <mask>*.ts</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*Test.php</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
-    <mask>*Test.php</mask>
   </component>
 </application>
