@@ -28,10 +28,10 @@
     <mask>*.twig</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*.ts</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.py</mask>
   </component>
 </application>
