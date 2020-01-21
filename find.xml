@@ -13,7 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
-    <mask>*.json</mask>
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
     <mask>*e.php</mask>
@@ -33,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.py</mask>
+    <mask>*.json</mask>
   </component>
 </application>
