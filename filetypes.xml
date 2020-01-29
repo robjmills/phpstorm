@@ -7,6 +7,7 @@
       <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
+      <mapping pattern="site-language-updater" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
