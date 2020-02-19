@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Interface.php" />
+    <option name="FILE_MASK" value="*Factory.php" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -22,7 +22,6 @@
     <mask>*.scss</mask>
     <mask>*Controller.php</mask>
     <mask>*.sql</mask>
-    <mask>*Factory.php</mask>
     <mask>*.twig</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*.ts</mask>
@@ -34,5 +33,6 @@
     <mask>*.ini</mask>
     <mask>*.php</mask>
     <mask>*Interface.php</mask>
+    <mask>*Factory.php</mask>
   </component>
 </application>
