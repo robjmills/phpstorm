@@ -31,7 +31,7 @@
     <mask>*Test.php</mask>
     <mask>*Command.php</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
