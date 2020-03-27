@@ -30,8 +30,8 @@
     <mask>*Gateway.php</mask>
     <mask>*Test.php</mask>
     <mask>*Command.php</mask>
-    <mask>*.php</mask>
     <mask>*</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
