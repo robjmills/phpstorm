@@ -28,10 +28,10 @@
     <mask>*Interface.php</mask>
     <mask>*Factory.php</mask>
     <mask>*Gateway.php</mask>
-    <mask>*Test.php</mask>
     <mask>*Command.php</mask>
     <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
