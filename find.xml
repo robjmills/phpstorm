@@ -33,7 +33,7 @@
     <mask>*</mask>
     <mask>*Test.php</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.conf</mask>
+    <mask>*.php</mask>
   </component>
 </application>
