@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -19,7 +22,6 @@
     <mask>*.sql</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.ini</mask>
@@ -33,5 +35,6 @@
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
