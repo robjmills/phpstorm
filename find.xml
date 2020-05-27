@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Test.php" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*SearchForm.php</mask>
@@ -36,7 +36,7 @@
     <mask>*SetupController.php</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*Test.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
