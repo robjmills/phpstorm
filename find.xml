@@ -36,8 +36,8 @@
     <mask>*.sql</mask>
     <mask>*SetupController.php</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
