@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.mxml</mask>
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
@@ -36,9 +36,9 @@
     <mask>*.sql</mask>
     <mask>*SetupController.php</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*Test.php</mask>
     <mask>.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
