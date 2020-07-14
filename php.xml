@@ -1,26 +1,22 @@
 <application>
-  <component name="MessDetector">
-    <phpmd_settings_migrated />
-  </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/code/basekit/vendor/bin/phpcs" timeout="30000" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="4b9f7a9d-af3f-4304-8a2a-8d577a872ab5" name="PHP 7.1" home="/usr/local/Cellar/php@7.1/7.1.24_2/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="4b9f7a9d-af3f-4304-8a2a-8d577a872ab5" name="PHP 7.1" home="/usr/local/Cellar/php/7.3.11/bin/php" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.1/7.1.24_2/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.1/7.1.24_2/bin/php" path_separator=":" version="7.1.24">
-          <additional_php_ini>/usr/local/etc/php/7.1/conf.d/ext-opcache.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.1/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.11/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.11/bin/php" path_separator=":" version="7.3.11">
+          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/php/includes" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.11/share/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -54,7 +50,6 @@
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="mcrypt" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
@@ -74,6 +69,7 @@
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
+            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />
