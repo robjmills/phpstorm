@@ -11,6 +11,7 @@
       <mapping pattern="console" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
+      <mapping pattern="symfony-console" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
