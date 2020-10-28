@@ -2,13 +2,13 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="1" type="Dockerfile" />
-      <mapping ext="3" type="Dockerfile" />
       <mapping ext="0" type="Dockerfile" />
+      <mapping ext="3" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="JSP" />
-      <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="site-language-updater" type="PHP" />
       <mapping pattern="console" type="PHP" />
+      <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="symfony-console" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
