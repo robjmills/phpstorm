@@ -7,6 +7,8 @@
       <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="site-language-updater" type="PHP" />
+      <mapping pattern="bookings-console" type="PHP" />
+      <mapping pattern="dashboard-console" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="symfony-console" type="PHP" />
