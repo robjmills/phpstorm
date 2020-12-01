@@ -2,12 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
+    <option name="FILE_MASK" value="*Creator.php" />
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
     <mask>*test.php</mask>
@@ -18,10 +14,8 @@
     <mask>§</mask>
     <mask>*.scss</mask>
     <mask>*Controller.php</mask>
-    <mask>*.sql</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*.ts</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.ini</mask>
@@ -30,10 +24,15 @@
     <mask>*Gateway.php</mask>
     <mask>*Command.php</mask>
     <mask>*</mask>
+    <mask>*SetupController.php</mask>
+    <mask>.yml</mask>
     <mask>*Test.php</mask>
+    <mask>*.js</mask>
     <mask>*.conf</mask>
     <mask>*.twig</mask>
+    <mask>*.sql</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*Creator.php</mask>
   </component>
 </application>
