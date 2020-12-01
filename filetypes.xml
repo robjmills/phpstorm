@@ -5,15 +5,16 @@
       <mapping ext="3" type="Dockerfile" />
       <mapping ext="0" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="JSP" />
-      <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="site-language-updater" type="PHP" />
       <mapping pattern="console" type="PHP" />
+      <mapping pattern="queue-daemon" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Native" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
