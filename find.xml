@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Creator.php" />
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
     <mask>*test.php</mask>
@@ -26,7 +25,6 @@
     <mask>*</mask>
     <mask>*SetupController.php</mask>
     <mask>.yml</mask>
-    <mask>*Test.php</mask>
     <mask>*.js</mask>
     <mask>*.conf</mask>
     <mask>*.twig</mask>
@@ -34,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*Creator.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
