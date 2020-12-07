@@ -16,6 +16,7 @@
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Native" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
