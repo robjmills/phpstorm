@@ -5,6 +5,7 @@
       <mapping ext="0" type="Dockerfile" />
       <mapping ext="3" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="JSP" />
+      <mapping pattern="bookings-checkout-console" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
       <mapping pattern="site-language-updater" type="PHP" />
       <mapping pattern="bookings-console" type="PHP" />
