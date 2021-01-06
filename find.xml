@@ -3,11 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
     <mask>*test.php</mask>
@@ -21,7 +19,6 @@
     <mask>*FactoryTest.php</mask>
     <mask>*.ts</mask>
     <mask>*.py</mask>
-    <mask>*.json</mask>
     <mask>*.ini</mask>
     <mask>*Interface.php</mask>
     <mask>*Factory.php</mask>
@@ -38,5 +35,6 @@
     <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>*.js</mask>
+    <mask>*.json</mask>
   </component>
 </application>
