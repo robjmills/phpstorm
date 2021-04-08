@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Connect" />
-    <option name="defaultScopeName" value="Connect" />
-    <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
     <mask>*test.php</mask>
@@ -29,9 +30,9 @@
     <mask>*Creator.php</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
-    <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
