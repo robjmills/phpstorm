@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <mask>*SearchForm.php</mask>
     <mask>*.less</mask>
     <mask>*test.php</mask>
@@ -15,7 +16,6 @@
     <mask>*Controller.php</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*.ts</mask>
-    <mask>*.py</mask>
     <mask>*.ini</mask>
     <mask>*Interface.php</mask>
     <mask>*Factory.php</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.py</mask>
   </component>
 </application>
