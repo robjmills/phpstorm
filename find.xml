@@ -30,8 +30,8 @@
     <mask>*.sql</mask>
     <mask>*Test.php</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.py</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
