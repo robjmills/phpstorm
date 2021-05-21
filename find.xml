@@ -29,9 +29,9 @@
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.py</mask>
-    <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>**.php</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
