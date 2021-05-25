@@ -23,7 +23,6 @@
     <mask>*SetupController.php</mask>
     <mask>.yml</mask>
     <mask>*.conf</mask>
-    <mask>*.twig</mask>
     <mask>*Creator.php</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
@@ -33,5 +32,6 @@
     <mask>**.php</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
