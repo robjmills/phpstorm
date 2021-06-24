@@ -30,10 +30,10 @@
     <mask>*.js</mask>
     <mask>*.py</mask>
     <mask>**.php</mask>
-    <mask>*.twig</mask>
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
