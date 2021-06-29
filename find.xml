@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
