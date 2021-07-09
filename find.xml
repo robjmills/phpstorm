@@ -3,6 +3,7 @@
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
     <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
     <mask>*e.php</mask>
@@ -29,9 +30,9 @@
     <mask>**.php</mask>
     <mask>*.tsx</mask>
     <mask>*.twig</mask>
-    <mask>*Test.php</mask>
     <mask>*Interface.php</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
