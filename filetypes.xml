@@ -2,17 +2,17 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="1" type="Dockerfile" />
-      <mapping ext="0" type="Dockerfile" />
       <mapping ext="3" type="Dockerfile" />
+      <mapping ext="0" type="Dockerfile" />
       <mapping pattern="Jenkinsfile" type="JSP" />
+      <mapping pattern="dashboard-console" type="PHP" />
       <mapping pattern="bookings-checkout-console" type="PHP" />
       <mapping pattern="phpstan" type="PHP" />
-      <mapping pattern="site-language-updater" type="PHP" />
       <mapping pattern="bookings-console" type="PHP" />
-      <mapping pattern="dashboard-console" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="queue-daemon" type="PHP" />
       <mapping pattern="symfony-console" type="PHP" />
+      <mapping pattern="site-language-updater" type="PHP" />
       <mapping ext="view" type="PHP" />
       <mapping pattern=".nowignore" type="PLAIN_TEXT" />
       <mapping ext="paw" type="PLAIN_TEXT" />
@@ -25,6 +25,7 @@
       <removed_mapping pattern=".dockerignore" approved="true" type="Native" />
       <removed_mapping pattern="symfony-console" approved="true" type="PLAIN_TEXT" />
       <mapping ext="local" type="Bash" />
+      <mapping pattern="Jenkinsfile" type="JSP" />
       <mapping pattern="Makefile2" type="Bash" />
     </extensionMap>
   </component>
