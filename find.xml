@@ -14,7 +14,6 @@
     <mask>*.scss</mask>
     <mask>*Controller.php</mask>
     <mask>*FactoryTest.php</mask>
-    <mask>*.ts</mask>
     <mask>*.ini</mask>
     <mask>*Factory.php</mask>
     <mask>*Gateway.php</mask>
@@ -35,5 +34,6 @@
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
