@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
-    <option name="FILE_MASK" value="*.php" />
     <mask>*test.php</mask>
     <mask>*provider.js</mask>
     <mask>*e.php</mask>
@@ -31,10 +30,10 @@
     <mask>*.tsx</mask>
     <mask>*Interface.php</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.ts</mask>
     <mask>*Test.php</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
