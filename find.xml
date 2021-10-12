@@ -33,7 +33,7 @@
     <mask>*Test.php</mask>
     <mask>*.twig</mask>
     <mask>*Controller.php</mask>
-    <mask>*.php</mask>
     <mask>*Transformer.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
