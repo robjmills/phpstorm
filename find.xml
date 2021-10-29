@@ -3,7 +3,7 @@
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
     <option name="SEARCH_SCOPE" value="Connect" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*provider.js</mask>
     <mask>*e.php</mask>
     <mask>*_setup.twig</mask>
@@ -32,7 +32,7 @@
     <mask>*Transformer.php</mask>
     <mask>*.twig</mask>
     <mask>*Test.php</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
