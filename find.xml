@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
     <mask>*provider.js</mask>
     <mask>*e.php</mask>
