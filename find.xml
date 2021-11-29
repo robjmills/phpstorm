@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*e.php</mask>
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
@@ -35,8 +35,8 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*Test.php</mask>
-    <mask>*.twig</mask>
     <mask>Mollie*.php</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
