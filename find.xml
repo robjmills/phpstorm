@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*e.php</mask>
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
@@ -33,7 +32,7 @@
     <mask>*.yml</mask>
     <mask>Mollie*.php</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*Test.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
