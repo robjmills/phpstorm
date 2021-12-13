@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="customScope" value="Connect" />
+    <option name="defaultScopeName" value="Connect" />
+    <option name="SEARCH_SCOPE" value="Connect" />
     <mask>*e.php</mask>
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
