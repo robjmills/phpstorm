@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*e.php</mask>
+    <mask>*_setup.twig</mask>
+    <mask>*HandlerTest.php</mask>
+    <mask>§</mask>
+    <mask>*.scss</mask>
+    <mask>*FactoryTest.php</mask>
+    <mask>*.ini</mask>
+    <mask>*Factory.php</mask>
+    <mask>*Gateway.php</mask>
+    <mask>*Command.php</mask>
+    <mask>*</mask>
+    <mask>*SetupController.php</mask>
+    <mask>.yml</mask>
+    <mask>*.conf</mask>
+    <mask>*Creator.php</mask>
+    <mask>*.json</mask>
+    <mask>*.py</mask>
+    <mask>**.php</mask>
+    <mask>*.tsx</mask>
+    <mask>*Interface.php</mask>
+    <mask>*.ts</mask>
+    <mask>*.sql</mask>
+    <mask>*Controller.php</mask>
+    <mask>*Transformer.php</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>Mollie*.php</mask>
+    <mask>*Test.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.php</mask>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="phpcbf directory" description="phpcbf current directory" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/code/basekit/vendor/bin/phpcbf" />
+      <option name="PARAMETERS" value="--standard=/Users/robmills/code/basekit/tests/phpcs-ruleset.xml --extensions=PHP $FileDir$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
