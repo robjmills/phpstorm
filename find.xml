@@ -1,17 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <mask>*e.php</mask>
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
     <mask>*.scss</mask>
     <mask>*FactoryTest.php</mask>
-    <mask>*.ini</mask>
     <mask>*Factory.php</mask>
     <mask>*Gateway.php</mask>
     <mask>*Command.php</mask>
@@ -35,5 +33,6 @@
     <mask>*Test.php</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
