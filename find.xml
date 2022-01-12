@@ -28,10 +28,10 @@
     <mask>*Transformer.php</mask>
     <mask>*.yml</mask>
     <mask>Mollie*.php</mask>
-    <mask>*Test.php</mask>
     <mask>*.ini</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
