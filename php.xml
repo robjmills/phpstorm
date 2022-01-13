@@ -4,11 +4,6 @@
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/code/basekit/vendor/bin/phpcs" timeout="30000" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter id="4b9f7a9d-af3f-4304-8a2a-8d577a872ab5" name="PHP 7.1" home="/usr/local/Cellar/php/7.3.11/bin/php" debugger_id="php.debugger.XDebug" />
-    </interpreters>
-  </component>
   <component name="PhpSmartKeysConfiguration">
     <option name="promptFindUsagesOfBaseMethod" value="false" />
   </component>
