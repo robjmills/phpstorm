@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*e.php</mask>
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
@@ -17,7 +18,6 @@
     <mask>.yml</mask>
     <mask>*.conf</mask>
     <mask>*Creator.php</mask>
-    <mask>*.json</mask>
     <mask>*.py</mask>
     <mask>**.php</mask>
     <mask>*.tsx</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
   </component>
 </application>
