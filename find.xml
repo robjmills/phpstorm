@@ -24,14 +24,14 @@
     <mask>*.sql</mask>
     <mask>*Controller.php</mask>
     <mask>*Transformer.php</mask>
-    <mask>*.yml</mask>
     <mask>Mollie*.php</mask>
     <mask>*.ini</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
