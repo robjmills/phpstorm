@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
@@ -27,11 +30,11 @@
     <mask>Mollie*.php</mask>
     <mask>*.ini</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*Test.php</mask>
     <mask>*.json</mask>
     <mask>*.less</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
