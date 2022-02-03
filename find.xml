@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
@@ -32,8 +30,8 @@
     <mask>*Test.php</mask>
     <mask>*.json</mask>
     <mask>*.less</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
