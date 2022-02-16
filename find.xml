@@ -3,8 +3,11 @@
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
@@ -26,7 +29,6 @@
     <mask>*Transformer.php</mask>
     <mask>Mollie*.php</mask>
     <mask>*.ini</mask>
-    <mask>*.twig</mask>
     <mask>*Test.php</mask>
     <mask>*.json</mask>
     <mask>*.less</mask>
@@ -35,5 +37,6 @@
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.tsx</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
