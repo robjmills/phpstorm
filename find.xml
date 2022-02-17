@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
