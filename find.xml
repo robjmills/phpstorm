@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Connect" />
-    <option name="defaultScopeName" value="Connect" />
-    <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
