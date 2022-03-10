@@ -5,7 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
@@ -33,8 +33,8 @@
     <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.tsx</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
+    <mask>*.php</mask>
   </component>
 </application>
