@@ -30,8 +30,8 @@
     <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.tsx</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
