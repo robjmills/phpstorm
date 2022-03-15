@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*_setup.twig</mask>
     <mask>*HandlerTest.php</mask>
     <mask>§</mask>
@@ -28,11 +30,11 @@
     <mask>*Test.php</mask>
     <mask>*.json</mask>
     <mask>*.less</mask>
-    <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.tsx</mask>
     <mask>*.twig</mask>
-    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
