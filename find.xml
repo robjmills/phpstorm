@@ -3,7 +3,7 @@
     <option name="customScope" value="NonTestScope" />
     <option name="defaultScopeName" value="NonTestScope" />
     <option name="SEARCH_SCOPE" value="NonTestScope" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>§</mask>
     <mask>*.scss</mask>
     <mask>*FactoryTest.php</mask>
@@ -30,9 +30,9 @@
     <mask>*.tsx</mask>
     <mask>*Mixin.js</mask>
     <mask>**.js</mask>
-    <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
