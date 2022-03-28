@@ -22,7 +22,6 @@
     <mask>*Transformer.php</mask>
     <mask>Mollie*.php</mask>
     <mask>*.ini</mask>
-    <mask>*Test.php</mask>
     <mask>*.json</mask>
     <mask>*.sql</mask>
     <mask>*.tsx</mask>
@@ -33,5 +32,6 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.less</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
