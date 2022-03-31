@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="NonTestScope" />
-    <mask>§</mask>
+    <option name="FILE_MASK" value="*.test.js" />
     <mask>*.scss</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*Factory.php</mask>
@@ -35,5 +35,6 @@
     <mask>*Test.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.test.js</mask>
   </component>
 </application>
