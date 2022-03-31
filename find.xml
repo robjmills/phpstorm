@@ -30,8 +30,8 @@
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.less</mask>
-    <mask>*Test.php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
