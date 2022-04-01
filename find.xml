@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="NonTestScope" />
     <option name="defaultScopeName" value="NonTestScope" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="NonTestScope" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*.scss</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*Factory.php</mask>
@@ -26,12 +29,12 @@
     <mask>*.tsx</mask>
     <mask>*Mixin.js</mask>
     <mask>**.js</mask>
-    <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.less</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
