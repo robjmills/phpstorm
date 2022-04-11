@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="NonTestScope" />
-    <option name="defaultScopeName" value="NonTestScope" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="NonTestScope" />
+    <option name="customScope" value="Connect" />
+    <option name="defaultScopeName" value="Connect" />
+    <option name="SEARCH_SCOPE" value="Connect" />
     <mask>*.scss</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*Factory.php</mask>
