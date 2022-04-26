@@ -4,6 +4,7 @@
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
+    <option name="useMaterialFont" value="true" />
     <option name="accentScrollbars" value="false" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
@@ -19,6 +20,7 @@
     <option name="themedScrollbars" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialFont2" value="true" />
     <option name="treeFontSize" value="14" />
     <option name="highlightThickness" value="4" />
     <option name="settingsSelectedTab" value="2" />
@@ -26,6 +28,6 @@
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="4a83df2c:163ef26bd8c:-7fff" />
-    <option name="version" value="6.16.0" />
+    <option name="version" value="7.3.2" />
   </component>
 </application>
