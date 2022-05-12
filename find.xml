@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Connect" />
     <option name="defaultScopeName" value="Connect" />
     <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.scss</mask>
     <mask>*FactoryTest.php</mask>
     <mask>*Factory.php</mask>
@@ -34,8 +33,8 @@
     <mask>*.yml</mask>
     <mask>*.test.js</mask>
     <mask>*.sql</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
