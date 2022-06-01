@@ -1,5 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="UIFont" value="Operator Mono" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
     <option name="contrastMode" value="true" />
@@ -25,12 +26,13 @@
     <option name="customSidebarHeight" value="22" />
     <option name="treeFontSize" value="20" />
     <option name="highlightThickness" value="4" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="settingsSelectedTab" value="4" />
     <option name="tabsHeight" value="42" />
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="4a83df2c:163ef26bd8c:-7fff" />
     <option name="version" value="7.3.2" />
+    <option name="uiFont" value="Operator Mono" />
     <option name="treeFont" value="Operator Mono" />
   </component>
 </application>
