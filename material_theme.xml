@@ -18,9 +18,12 @@
     <option name="pristineConfig" value="false" />
     <option name="statusBarTheme" value="false" />
     <option name="themedScrollbars" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
-    <option name="treeFontSize" value="16" />
+    <option name="indicatorStyle" value="Dot" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="treeFontSize" value="20" />
     <option name="highlightThickness" value="4" />
     <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="42" />
