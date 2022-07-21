@@ -30,10 +30,10 @@
     <mask>*.test.js</mask>
     <mask>*.js</mask>
     <mask>*.view</mask>
-    <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
     <mask>*.sql</mask>
     <mask>*.twig</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
