@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Connect" />
-    <option name="defaultScopeName" value="Connect" />
+    <option name="customScope" value="TestsScope" />
+    <option name="defaultScopeName" value="TestsScope" />
     <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="SEARCH_SCOPE" value="TestsScope" />
     <mask>*FactoryTest.php</mask>
     <mask>*Factory.php</mask>
     <mask>*Gateway.php</mask>
@@ -34,8 +34,8 @@
     <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*.yml</mask>
+    <mask>*.twig</mask>
     <mask>*Test.php</mask>
     <mask>*.php</mask>
-    <mask>*.twig</mask>
   </component>
 </application>
