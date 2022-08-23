@@ -31,9 +31,9 @@
     <mask>*.view</mask>
     <mask>*.sql</mask>
     <mask>*.ts</mask>
-    <mask>*.yml</mask>
     <mask>*Test.php</mask>
     <mask>*.twig</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
   </component>
 </application>
