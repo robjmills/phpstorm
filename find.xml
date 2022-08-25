@@ -27,13 +27,13 @@
     <mask>**.js</mask>
     <mask>*.less</mask>
     <mask>*.test.js</mask>
-    <mask>*.js</mask>
     <mask>*.view</mask>
     <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*Test.php</mask>
     <mask>*.yml</mask>
-    <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
