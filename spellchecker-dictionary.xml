@@ -3,9 +3,14 @@
     <words>
       <w>anonymiser</w>
       <w>basekit</w>
+      <w>bookingsservice</w>
+      <w>bookingsservicelist</w>
       <w>castlepark</w>
       <w>clickjacking</w>
       <w>comodo</w>
+      <w>companyaddress</w>
+      <w>companybrand</w>
+      <w>companydescription</w>
       <w>connectbookings</w>
       <w>contentset</w>
       <w>cronofy</w>
@@ -13,14 +18,29 @@
       <w>deducer</w>
       <w>dtos</w>
       <w>ecom</w>
+      <w>ecombasket</w>
+      <w>ecombasketsummary</w>
+      <w>ecomcategorieslist</w>
+      <w>ecomconfirmation</w>
+      <w>ecomfeaturedproducts</w>
+      <w>ecomlegal</w>
+      <w>ecomproduct</w>
+      <w>ecomproductslist</w>
       <w>ecwid</w>
+      <w>ecwidbasket</w>
+      <w>ecwidsearch</w>
+      <w>emaildisplay</w>
       <w>filestack</w>
       <w>fillable</w>
+      <w>forgottenpassword</w>
       <w>hydrator</w>
       <w>idekey</w>
       <w>itemcount</w>
       <w>jsmin</w>
+      <w>languagemenu</w>
       <w>lebowski</w>
+      <w>linkedincompanyprofile</w>
+      <w>linkedinprofile</w>
       <w>localizedcurrency</w>
       <w>mailhog</w>
       <w>multilanguage</w>
@@ -31,6 +51,7 @@
       <w>phpstan</w>
       <w>productlist</w>
       <w>rediscli</w>
+      <w>responsivecolumns</w>
       <w>signupform</w>
       <w>sslproxy</w>
       <w>strapline</w>
