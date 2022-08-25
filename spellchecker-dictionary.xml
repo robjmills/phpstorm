@@ -1,17 +1,24 @@
 <application>
   <component name="CachedDictionaryState">
     <words>
+      <w>advancedcontactform</w>
       <w>anonymiser</w>
       <w>basekit</w>
+      <w>blogpostlist</w>
+      <w>blogsearch</w>
       <w>bookingsservice</w>
       <w>bookingsservicelist</w>
+      <w>buynow</w>
       <w>castlepark</w>
       <w>clickjacking</w>
+      <w>clicktocall</w>
       <w>comodo</w>
       <w>companyaddress</w>
       <w>companybrand</w>
       <w>companydescription</w>
       <w>connectbookings</w>
+      <w>contactform</w>
+      <w>contentgroup</w>
       <w>contentset</w>
       <w>cronofy</w>
       <w>customermanager</w>
@@ -30,8 +37,14 @@
       <w>ecwidbasket</w>
       <w>ecwidsearch</w>
       <w>emaildisplay</w>
+      <w>extendednavigation</w>
+      <w>facebookcomments</w>
+      <w>facebooklike</w>
+      <w>filedownload</w>
       <w>filestack</w>
       <w>fillable</w>
+      <w>fonectacontactform</w>
+      <w>fonectamap</w>
       <w>forgottenpassword</w>
       <w>hydrator</w>
       <w>idekey</w>
@@ -43,16 +56,24 @@
       <w>linkedinprofile</w>
       <w>localizedcurrency</w>
       <w>mailhog</w>
+      <w>menusections</w>
       <w>multilanguage</w>
       <w>nosniff</w>
       <w>onboarding</w>
       <w>opensrs</w>
+      <w>parkinglogin</w>
+      <w>paypalbuynow</w>
       <w>paytrail</w>
       <w>phpstan</w>
+      <w>policypages</w>
       <w>productlist</w>
+      <w>redirecttodesktop</w>
       <w>rediscli</w>
+      <w>resetpassword</w>
       <w>responsivecolumns</w>
+      <w>responsiveslideshow</w>
       <w>signupform</w>
+      <w>socialicons</w>
       <w>sslproxy</w>
       <w>strapline</w>
       <w>tinyproxy</w>
@@ -61,6 +82,7 @@
       <w>typecheck</w>
       <w>varnishpurge</w>
       <w>venezia</w>
+      <w>yelpreview</w>
     </words>
   </component>
 </application>
