@@ -3,10 +3,9 @@
     <option name="customScope" value="TestsScope" />
     <option name="defaultScopeName" value="TestsScope" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="TestsScope" />
+    <option name="FILE_MASK" value="*.twig" />
     <mask>*FactoryTest.php</mask>
     <mask>*Factory.php</mask>
     <mask>*Gateway.php</mask>
@@ -34,8 +33,8 @@
     <mask>*.ts</mask>
     <mask>*Test.php</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
