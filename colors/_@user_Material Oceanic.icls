@@ -4,16 +4,12 @@
     <property name="created">2018-07-17T10:37:36</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.4.0.0</property>
-    <property name="modified">2022-09-08T15:36:59</property>
+    <property name="modified">2022-09-08T15:43:15</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.3" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
@@ -102,7 +98,7 @@
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="607d86" />
     <option name="LOOKUP_COLOR" value="32424a" />
-    <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
+    <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
     <option name="MODIFIED_TAB_ICON" value="9688" />
     <option name="MT_FILESTATUS_ADDED" value="c3e88d" />
