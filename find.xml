@@ -1,15 +1,42 @@
 <application>
   <component name="FindSettings">
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.php4</mask>
-    <mask>*.phtml</mask>
-    <mask>*.php5</mask>
-    <mask>*.ctp</mask>
-    <mask>*.hphp</mask>
-    <mask>*.module</mask>
-    <mask>*.inc</mask>
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Connect" />
+    <option name="defaultScopeName" value="Connect" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="FILE_MASK" value="*Test.php" />
+    <mask>*FactoryTest.php</mask>
+    <mask>*Factory.php</mask>
+    <mask>*Gateway.php</mask>
+    <mask>*Command.php</mask>
+    <mask>*</mask>
+    <mask>*SetupController.php</mask>
+    <mask>.yml</mask>
+    <mask>*.conf</mask>
+    <mask>*Creator.php</mask>
+    <mask>*.py</mask>
+    <mask>**.php</mask>
+    <mask>*Interface.php</mask>
+    <mask>*Controller.php</mask>
+    <mask>*Transformer.php</mask>
+    <mask>Mollie*.php</mask>
+    <mask>*.ini</mask>
+    <mask>*.tsx</mask>
+    <mask>*Mixin.js</mask>
+    <mask>**.js</mask>
+    <mask>*.less</mask>
+    <mask>*.test.js</mask>
+    <mask>*.view</mask>
+    <mask>*.sql</mask>
+    <mask>*.ts</mask>
+    <mask>*.js</mask>
+    <mask>*.json</mask>
+    <mask>*.twig</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
