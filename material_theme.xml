@@ -18,6 +18,8 @@
     <option name="overrideAccentColor" value="false" />
     <option name="pristineConfig" value="false" />
     <option name="themedScrollbars" value="false" />
+    <option name="treeFontSizeEnabled" value="true" />
+    <option name="tabFontSizeEnabled" value="true" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialFont2" value="true" />
     <option name="indicatorStyle" value="Dot" />
@@ -25,13 +27,13 @@
     <option name="treeFontSize" value="14" />
     <option name="highlightThickness" value="4" />
     <option name="indicatorThickness" value="4" />
-    <option name="settingsSelectedTab" value="2" />
     <option name="tabsHeight" value="42" />
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="4a83df2c:163ef26bd8c:-7fff" />
     <option name="version" value="7.11.0" />
     <option name="uiFont" value="Operator Mono" />
+    <option name="tabFont" value="Operator Mono" />
     <option name="treeFont" value="Operator Mono" />
   </component>
 </application>
