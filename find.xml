@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Connect" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*Factory.php</mask>
     <mask>*Gateway.php</mask>
     <mask>*Command.php</mask>
@@ -31,9 +32,9 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.twig</mask>
-    <mask>*Test.php</mask>
     <mask>*Repository.php</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
