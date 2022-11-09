@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="webhooks-console" type="AUTO_DETECTED" />
       <mapping ext="1" type="Dockerfile" />
       <mapping ext="3" type="Dockerfile" />
       <mapping ext="0" type="Dockerfile" />
